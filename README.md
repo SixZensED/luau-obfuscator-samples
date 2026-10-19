@@ -4,4 +4,3 @@
 - promehteus (wearedevs)
 - ironbrew (ib1,V2,V3)
 - luast (v1.0.1)
-- realvuxobfuscate (v1.2.5)
