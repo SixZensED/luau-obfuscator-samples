@@ -5,3 +5,4 @@
 - ironbrew (ib1,V2,V3)
 - luast (v1.0.0, v1.0.1, v1.1.2; v1.0.2 sample pending)
 - luaobfuscator (ferib: ChaoticGood, VM; ChaoticEvil pending)
+- moonveil (21 version-labeled samples across v1.x and v2.x; [sources](MoonVeil/README.md))
